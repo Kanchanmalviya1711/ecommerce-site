@@ -1,0 +1,65 @@
+.ecomm-logo img{
+    width: 12%;
+}
+.card-style{
+    width: 25rem;
+    margin: auto;
+}
+.login-form{
+    margin:3rem;
+}
+
+.top-heading{
+    text-align: center;
+    margin: 2rem;
+    color: white;
+    font-size: 21px;
+    padding: 1rem;
+    background-color: cornflowerblue;
+
+}
+.card-list{
+    list-style: none;
+}
+.card-list li{
+    margin: 1rem;
+}
+.card-image-center{
+    width: 50%;
+    text-align: center;
+    margin: 1rem auto;
+}
+/* ------------ */
+.continue-shopping{
+    text-align: center;
+    margin: 8rem;
+}
+.continue-shopping h5{
+    font-size: 2.25rem;
+}
+.card-title {
+    margin-bottom: .5rem;
+    text-align: center;
+}
+.btn-center{
+    text-align: center;
+}
+
+.text-center h4 {
+    font-size: 20px;
+    font-family: -webkit-pictograph;
+    color: currentColor;
+ }
+
+ a {
+    color: #4c3f3f;
+    text-decoration: none;
+    font-size: 19px;
+}
+.footer {
+    position: fixed;
+    padding: 10px 10px 0px 10px;
+    bottom: 0;
+    width: 100%;
+    height: 40px;
+}
